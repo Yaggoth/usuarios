@@ -10,7 +10,7 @@
 	<div class="welcome">
 		<h1>114143 estubo aqui...</h1>
 		<h1>You have arrived.</h1>
-		<h2> LALALAL Oliii <h2>
+		<h2> Oliii <h2>
 	</div>
 </body>
 </html>
